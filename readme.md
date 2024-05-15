@@ -1,0 +1,1 @@
+![screenshot1](https://github.com/ekitv2021/hr-dashboard/blob/main/images/img1.png)
